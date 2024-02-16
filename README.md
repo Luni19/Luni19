@@ -1,6 +1,6 @@
-# Привіт! ![Привіт!](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+# HI! ![HI!](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-Мене звати Константин і я фронтенд розробник з Києва.
+My name is Konstantin, i am Frontend developer from Kyiv
 
 *   🌍 I'm based in Ukraine
 *   ✉️ You can contact me at  [aziimov1999123@gmail.com](mailto:aziimov1999123@gmail.com)
